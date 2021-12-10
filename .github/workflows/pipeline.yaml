@@ -16,12 +16,12 @@ env:
   TESTING_STACK_NAME: spec-linter-stack-dev
   TESTING_PIPELINE_EXECUTION_ROLE: arn:aws:iam::007596076917:role/aws-sam-cli-managed-dev-pipe-PipelineExecutionRole
   TESTING_CLOUDFORMATION_EXECUTION_ROLE: arn:aws:iam::007596076917:role/aws-sam-cli-managed-dev-pipe-PipelineExecutionRole
-  TESTING_ARTIFACTS_BUCKET: aws-sam-cli-managed-dev-pipeline-artifactsbucket-1a7ac8xiti4g9
+  TESTING_ARTIFACTS_BUCKET: aws-sam-cli-managed-dev-pipeline-artifactsbucket-linting-api
   TESTING_REGION: us-west-2
   PROD_STACK_NAME: spec-linter-stack-prod
   PROD_PIPELINE_EXECUTION_ROLE: arn:aws:iam::007596076917:role/aws-sam-cli-managed-prod-pipe-PipelineExecutionRole
   PROD_CLOUDFORMATION_EXECUTION_ROLE: arn:aws:iam::007596076917:role/aws-sam-cli-managed-prod-pipe-PipelineExecutionRole
-  PROD_ARTIFACTS_BUCKET: aws-sam-cli-managed-prod-pipeline-artifactsbucket-1mgd2f7jh27oy
+  PROD_ARTIFACTS_BUCKET: aws-sam-cli-managed-prod-pipeline-artifactsbucket-linting-api
   PROD_REGION: us-west-2
 
 jobs:
