@@ -15,4 +15,4 @@ Spectral config must be hosted at a URL. This API supports configuration in the 
 
 ## License
 
-Apache/2
+- Apache/2
