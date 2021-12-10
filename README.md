@@ -1,6 +1,6 @@
 # Linting API
 
-An API for linting OpenAPI, AsyncAPI, and other JSON/YAML documents, built on top of [Spectral](https://github.com/stoplightio/spectral).
+A serverless API for linting OpenAPI, AsyncAPI, and other JSON/YAML documents, built on top of [Spectral](https://github.com/stoplightio/spectral).
 
 ## Usage
 
