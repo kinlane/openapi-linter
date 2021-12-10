@@ -12,7 +12,6 @@ Spectral config must be hosted at a URL. This API supports configuration in the 
 
 - JSON/YAML file
 - Spectral JavaScript configuration (typically `.spectral.js`)
-- Spectral TypeScript configuration (typically `.spectral.ts`)
 
 ## License
 
